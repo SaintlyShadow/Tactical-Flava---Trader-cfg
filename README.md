@@ -1,5 +1,8 @@
 # 1.16 Updated Trader config - Tactical Flava!
 
+Change values to suit your Economy, may be a couple of craftable items. Just comment out or remove.
+Made from provided classnames list.
+
 	<Category> TF | Optics
             TF_ElcanSpecterDROptic_FDE,                       *,       60,      30
             TF_ElcanSpecterDROptic_Black,                     *,       60,      30
